@@ -2,5 +2,6 @@
 This is my personal website.
 
 To run this, you should :
-npm i
-npm run dev
+1. npm i
+2. npm run dev
+
